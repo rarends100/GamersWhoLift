@@ -5,3 +5,6 @@ GamersWhoLift: The social platform where gamers track lifts, join fitness-focuse
 * Project Type: ASP.NET Core Web App (Model-View-Controller)
 * Framework: .NET 8.0
 
+# Languages
+* C#
+* MySQL
